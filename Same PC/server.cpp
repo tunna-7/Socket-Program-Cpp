@@ -18,6 +18,7 @@ using namespace std;
 //Server side
 int main(int argc, char *argv[])
 {
+    
     //for the server, we only need to specify a port number
     if(argc != 2)
     {
